@@ -1593,15 +1593,10 @@ body[data-sidebar-toggle=true] #sidebar {
 .brand {
   display: inline-block;
   width: 6.5rem;
-  height: 5.75rem;
+  height: 2.75rem;
 }
 .brand > * {
   width: 100%;
-}
-
-.Komaroll-logo {
-  height: auto;
-  width: 18rem;
 }
 
 #sidebar[data-sidebar=red] .sidebar-body .navbar .nav-link.active {
